@@ -1,0 +1,37 @@
+aimerz+ PipeClick Hard
+aimerz+ B180C Hard
+aimerz+ WaveClick Hard
+aimerz+ 1w3ts Hard
+aimerz+ ww6t Hard
+aimerz+ 1w4ts HF Hard
+aimerz+ Smoothbot Hard
+aimerz+ PTI Hard
+aimerz+ PreciseTrack Hard
+aimerz+ PipeTrack Hard
+aimerz+ VariedStrafes Hard
+aimerz+ Air Hard
+aimerz+ pivoTS Hard
+aimerz+ waveTS Hard
+aimerz+ swingTS Hard
+aimerz+ joeTS Hard
+aimerz+ B180TC Hard
+aimerz+ TomTS Hard
+
+aimerz+ PipeClick Normal
+aimerz+ B180C Normal
+aimerz+ WaveClick Normal
+aimerz+ 1w3ts Normal
+aimerz+ ww6t Normal
+aimerz+ 1w4ts HF Normal
+aimerz+ Smoothbot Normal
+aimerz+ PTI Normal
+aimerz+ PreciseTrack Normal
+aimerz+ PipeTrack Normal
+aimerz+ VariedStrafes Normal
+aimerz+ Air Normal
+aimerz+ pivoTS Normal
+aimerz+ waveTS Normal
+aimerz+ swingTS Normal
+aimerz+ joeTS Normal
+aimerz+ B180TC Normal
+aimerz+ TomTS Normal
