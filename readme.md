@@ -1,6 +1,6 @@
 # Autosheet-Updater
-Simple tool to make your life a little bit easier, by autofilling your spreadsheet.  
-Currently, it works only with Aimerz+ and Voltaic's progression sheets, in future all sheets should be supported after simple configuration.
+Simple tool to make your life a little bit easier, by autofilling your progress spreadsheet.  
+Currently, it works only with Aimerz+ and Voltaic's progression sheets, in future all Kovaaks sheets should be supported after simple configuration.
 
 ## Installation
 ### Prerequisites:
